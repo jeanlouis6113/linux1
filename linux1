@@ -21,3 +21,206 @@
         └── venus.jpeg
 
 5 directories, 15 files
+jeanlouis@jeanlouis-X550JX:~/quetes/shell/planets$ history
+    1  sudo sh -c 'echo "deb https://dl.google.com/linux/chrome/deb/ stable main" > /etc/apt/sources.list.d/google-chrome.list'
+    2  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+    3  sudo apt install google-chrome-stable_current_amd64.deb
+    4  sudo sh -c 'echo "deb https://dl.google.com/linux/chrome/deb/ stable main" > /etc/apt/sources.list.d/google-chrome.list'
+    5  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+    6  sudo apt install google-chrome-stable_current_amd64.deb
+    7  sudo sh -c 'echo "deb https://dl.google.com/linux/chrome/deb/ stable main" > /etc/apt/sources.list.d/google-chrome.list'
+    8  sudo apt-get update
+    9  apt-get autoclean
+   10  apt-get clean
+   11  $ sudo apt-get update
+   12  sudo
+   13  $ sudo apt-get update
+   14  sudo
+   15  sudo apt-get update
+   16  apt-get install git
+   17  sudo-i
+   18  root
+   19  sudo
+   20  sudo-i
+   21  apt-cache show nom_du_paquet
+   22  su root
+   23  apt-get install sudo
+   24  sudo
+   25  apt-cache policy <paquet>
+   26  apt-cache show nom_du_paquet
+   27  sudo apt install mon_paquet
+   28  sudo apt-get install mon_paquet
+   29  sudo apt-get update
+   30  apt-get autoclean
+   31  sudo
+   32  sudo-i
+   33  apt-get clean
+   34  apt update
+   35  root
+   36  sudo apt-get update
+   37  sudo
+   38  root
+   39  useer
+   40  sudo apt-get update
+   41  sudo apt-get install git
+   42  git --version
+   43  git config --global user.name "jeanlouis"
+   44  git config --global user.email "jeanlouispoussin@yahoo.fr"
+   45  sudo dnf install git
+   46  git config
+   47  git init
+   48  ls
+   49  ls Téléchargement
+   50  ls Téléchargements
+   51  ls Images
+   52  pwd
+   53  cd Images
+   54  pwd
+   55  cd  ..
+   56  pwd
+   57  cd ..
+   58  pwd
+   59  cd ..
+   60  pwd
+   61  ls
+   62  cd homr/jeanlouis
+   63  cd home/jeanlouis
+   64  pwd
+   65  cd Images
+   66  cd
+   67  cd Images
+   68  cd ~
+   69  cd -/Musique
+   70  pwd
+   71  cd Images
+   72  cd -/Musique
+   73  cd ~/Musique
+   74  pswd
+   75  pws
+   76  pwd
+   77  ls
+   78  ls Téléchargements
+   79  ls Images
+   80  pwd
+   81  cd Images
+   82  pwd
+   83  cd ..
+   84  pwd
+   85  cd ..
+   86  pwd
+   87  cd ..
+   88  pwd
+   89  ls
+   90  cd home/jeanlouis
+   91  pwd
+   92  cd Images
+   93  cd
+   94  cd Images
+   95  cd ~
+   96  cd Images
+   97  cd ~/Musique
+   98  pwd
+   99  mkdir
+  100  sudo apt-get instll -y tree wget unzip
+  101  Loulou6113
+  102  sudo apt-get instll -y tree wget unzip
+  103  sudo apt-get install -y tree wget unzip
+  104  mkdir
+  105  ls -l
+  106  mkdir quetes
+  107  mkdir -p questes/shell/legumes quetes/shell/fruits
+  108  mkdir quetes/shell/effacez-moi quetes/shell/delete-me
+  109  ls quetes/shell
+  110  mkdir quetes
+  111  mkdir -p quetes/shell/legumes quetes/shell/fruits
+  112  mkdir quetes/shell/effacez-moi quetes/shell/delete-me
+  113  ls quetes/shell
+  114  rmdir quetes/shell/effacez-moi quetes/shell/delete-me
+  115  cd ~/quetes/shell
+  116  touch pomme
+  117  touch poire
+  118  touch carotte chou-rave chou-fleur courgette
+  119  ls
+  120  ls -l ~/.bashrc
+  121  touch ~/.bashrc
+  122  ls -l ~/.bashrc
+  123  cp pomme banane
+  124  cp pomme fruits/orange
+  125  ls ; ls fruits
+  126  cp po* banane fruits/
+  127  ls fruits
+  128  cp -R fruits copie-de-fruits
+  129  cp -R fruits copie-de-fruits /tmp/
+  130  rm po* banane
+  131  rm -r copie-de-fruits
+  132  mv carotte chou* courgette legumes/
+  133  mv fruits/orange fruits/pamplemousse
+  134  mv legumes/courgette fruits/kiwi
+  135  ~/quetes/shell
+  136  wget https://github.com/bhubr.github.io/raw/master/wild/planets.zip
+  137  wget https://github.com/bhubr/bhubr.github.io/raw/master/wild/unzip planets.zip
+  138  eog planets
+  139  real
+  140  mkdir real
+  141  mkdir fictional
+  142  mkdir inhabited
+  143  ~/quetes/shell
+  144  sudo apt-get install -y tree wget unzip
+  145  ~/quetes/shell
+  146  cd
+  147  ~/quetes/shell
+  148  sudo apt-get install -y tree wget unzip
+  149  cd ~/quetes/shell
+  150  mkdir real/planets
+  151  wget https://github.com/bhubr/bhubr.github.io/raw/master/wild/planets.zip
+  152  wget https://github.com/bhubr/bhubr.github.io/raw/master/wild/unzip planets.zip
+  153  planets
+  154  eog
+  155  eog planets
+  156  mkdir quetes/shell/planets
+  157  cd ~/quetes/shell
+  158  touch real
+  159  touch fictional
+  160  touch inhabited
+  161  touch planets
+  162  rm planets
+  163  sudo apt-get install -y tree wget unzip
+  164  cd ~/quetes/shell
+  165  wget https://github.com/bhubr/bhubr.github.io/raw/master/wild/planets.zip
+  166  unzip planets.zip
+  167  eog planets
+  168  cd planets
+  169  mkdir real fictional inhabited
+  170  ls
+  171  cd real
+  172  mkdir telluric gas-giants dwarf-planets
+  173  ls
+  174  cd 
+  175  cd..
+  176  cd quetes/shell/planets
+  177  mv -v jupiter/real
+  178  mv -v jupiter.jpeg real/gas-giants
+  179  mv -v venus.jpeg real/telluric
+  180  mv -v mars.jpeg real/telluric
+  181  mv -v saturn.jpeg real/gas-giants
+  182  mv -v earth.jpeg real/telluric
+  183  mv -v neptune.jpeg real/gas-giants
+  184  mv -v pluto.jpeg real/dwarf-planets
+  185  mv -v uranus.jpeg real/gas-giants
+  186  mv -v mercury.jpeg real/telluric
+  187  mv -v arrakis.jpeg real/fictional
+  188  mv -v coruscant.jpeg real/fictional
+  189  mv -v cybertron.jpeg real/fictional
+  190  mv -v arrakis.jpeg fictional/
+  191  mv -v coruscant.jpeg fictional/
+  192  mv -v cybertron.jpeg fictional
+  193  cp -v  earth.jpeg inhabited/
+  194  cp -v earth.jpeg inhabited/
+  195  cp -v real/telluric/earth.jpeg inhabited/
+  196  cp -v fictional/arrakis.jpeg inhabited/
+  197  cp -v fictional/coruscant.jpeg inhabited/
+  198  cp -v fictional/cybertron.jpeg inhabited/
+  199  rm -rv real/dwarf-planets/
+  200  tree
+  201  history
+jeanlouis@jeanlouis-X550JX:~/quetes/shell/planets$ 
